@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="hello world example" /> 
+  <Content type="html">
+     <![CDATA[ 
+       <style type="text/css">
+<!--
+.display_archive {font-family: arial,verdana; font-size: 12px;}
+.campaign {line-height: 125%; margin: 5px;}
+//-->
+</style>
+<script language="javascript" src="http://us9.campaign-archive2.com/generate-js/?u=2cbfaef5c8966ca655d211582&fid=9333&show=10" type="text/javascript"></script>
+     ]]>
+  </Content> 
+</Module>
